@@ -5,4 +5,4 @@ cp ./.p10k.zsh ~/
 cp ./.zshrc ~/
 rm -rf ~/.zinit
 
-export "zsh" >> ~/.bashrc
+echo "zsh" >> ~/.bashrc
